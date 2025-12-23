@@ -15,16 +15,14 @@
 <a href="https://leetcode.com/RedaArrous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RedaArrous" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<h4 align="left">Programming Languages:</h4>
+<h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">Machine Learning & Data Science:</h4>
+<h3 align="left">Machine Learning & Data Science:</h3>
 <p align="left">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a>
@@ -36,30 +34,30 @@
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">MLOps & Experimentation:</h4>
+<h3 align="left">MLOps & Experimentation:</h3>
 <p align="left">
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/> </a>
   <a href="https://dvc.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/dvc/13ADC7" alt="dvc" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">Web Scraping:</h4>
+<h3 align="left">Web Scraping:</h3>
 <p align="left">
   Beautiful Soup • ZenRows
 </p>
 
-<h4 align="left">Web Development & APIs:</h4>
+<h3 align="left">Web Development & APIs:</h3>
 <p align="left">
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">Databases:</h4>
+<h3 align="left">Databases:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">DevOps & Tools:</h4>
+<h3 align="left">DevOps & Tools:</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
 </p>
