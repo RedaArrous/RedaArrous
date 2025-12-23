@@ -3,9 +3,7 @@
 ### ML engineer and artificial intelligence student
 
 - 🌱 I'm currently learning **Computer Vision**
-
 - 📫 How to reach me **arrousmohammedridha@gmail.com**
-
 - 👨‍💻 All of my projects are available at **[https://redaarrous.dev/](https://redaarrous.dev/)**
 
 <h3 align="left">Connect with me:</h3>
@@ -42,7 +40,8 @@
 
 <h3 align="left">Web Scraping:</h3>
 <p align="left">
-  Beautiful Soup • ZenRows
+  <img src="https://img.shields.io/badge/Beautiful%20Soup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="beautifulsoup"/>
+  <img src="https://img.shields.io/badge/ZenRows-00D4AA?style=for-the-badge&logoColor=white" alt="zenrows"/>
 </p>
 
 <h3 align="left">Web Development & APIs:</h3>
@@ -62,6 +61,6 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RedaArrous&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="RedaArrous" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RedaArrous&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="RedaArrous" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RedaArrous&show_icons=true&locale=en&cache_seconds=1800" alt="RedaArrous" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RedaArrous&show_icons=true&locale=en&cache_seconds=1800" alt="RedaArrous" /></p>
