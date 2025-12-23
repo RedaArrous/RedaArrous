@@ -61,6 +61,5 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RedaArrous&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="RedaArrous" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RedaArrous&show_icons=true&locale=en&cache_seconds=1800" alt="RedaArrous" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RedaArrous&show_icons=true&theme=tokyonight" alt="RedaArrous" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RedaArrous&show_icons=true&theme=tokyonight" /></p>
