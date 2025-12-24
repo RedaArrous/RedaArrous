@@ -61,5 +61,5 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><img src="https://stats.programcx.cn/api?username=RedaArrous&show_icons=true&theme=tokyonight" /></p>
+<p align="center"><img src="https://stats.programcx.cn/api?username=RedaArrous&show_icons=true&theme=aura" /></p>
 
